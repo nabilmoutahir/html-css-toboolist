@@ -12,6 +12,8 @@ body {
     background-color: blue;
 }
 
+/* COMMON */
+
 /* HEADER E LOGO */
 .container-header{
     background-color: white;
@@ -35,7 +37,29 @@ body {
     margin: 70px auto;
     width: 80%;
     background-color: white;
-    padding: 25px 50px ;
+    padding: 25px 50px;
     border-radius: 10px;
 }
 
+/* MAIN HEADER */
+.test {
+    border-bottom: 1px solid black;
+   
+}
+
+.add {
+    display: inline-block;
+    color: lightgray;
+    border: 1px solid lightgray;
+    font-size: small;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add:hover{
+    background-color: rgb(110, 110, 250);
+    color: white;
+}
+
+/*  */
