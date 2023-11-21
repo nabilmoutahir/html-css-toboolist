@@ -1,5 +1,31 @@
+/* GENERICS */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* DELETE LATER */
+body {
+    background-color: blue;
+}
+
+/* HEADER E LOGO */
+.container-header{
+    background-color: white;
+    height: 80px;
+    line-height: 80px;
+    padding-left: 20px;
+}
+
+#main-title {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
+}
+
+#logo {
+    vertical-align: middle;
 }
