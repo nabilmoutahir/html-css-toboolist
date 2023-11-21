@@ -62,4 +62,57 @@ body {
     color: white;
 }
 
-/*  */
+/* LIST */
+.status {
+    border-radius: 50%;
+    border: 1px solid;
+    font-size: 10px;
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    text-align: center;
+}
+
+.positive {
+    color: lightgreen;
+}
+
+.negative{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
