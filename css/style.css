@@ -58,7 +58,7 @@ body {
 }
 
 .add:hover{
-    background-color: rgb(110, 110, 250);
+    background-color: #6495ED;
     color: white;
 }
 
@@ -74,18 +74,47 @@ body {
 }
 
 .positive {
-    color: lightgreen;
+    color: lightseagreen;
 }
 
 .negative{
     color: red;
 }
 
+/* CATEGORIES */
+.categories {
+    display: inline-block;
+    color: white;
+    font-size: xx-small;
+    border-radius: 10px;
+    padding: 6px;
+}
 
+.editorial {
+    background-color: #6495ED;
+}
 
+.q1 {
+    background-color: blueviolet;
+}
 
+.recruiting {
+    background-color: lightseagreen;
+}
 
+.mobile {
+    background-color: gold;
+}
 
+.website {
+    background-color: violet;
+}
+
+.sales {
+    background-color: goldenrod;
+}
+
+/*  */
 
 
 
