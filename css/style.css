@@ -63,6 +63,11 @@ body {
 }
 
 /* LIST */
+.checks {
+    line-height: 15px;
+    padding-top: 15px;
+}
+
 .status {
     border-radius: 50%;
     border: 1px solid;
@@ -71,6 +76,7 @@ body {
     height: 15px;
     width: 15px;
     text-align: center;
+    vertical-align: middle;
 }
 
 .positive {
@@ -86,8 +92,8 @@ body {
     display: inline-block;
     color: white;
     font-size: xx-small;
-    border-radius: 10px;
-    padding: 6px;
+    border-radius: 8px;
+    padding: 3px 6px;
 }
 
 .editorial {
@@ -114,8 +120,14 @@ body {
     background-color: goldenrod;
 }
 
-/*  */
+/* LIST FORMAT */
+ul {
+    list-style: none;
+}
 
+.list {
+    padding-top: 30px;
+}
 
 
 
